@@ -8,6 +8,7 @@ public class Java_sibay {
      int b = 20;
      int c= b/a;
         System.out.println(c);
+        System.out.println(b);
     }
     
 }
