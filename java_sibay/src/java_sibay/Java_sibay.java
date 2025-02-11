@@ -7,8 +7,9 @@ public class Java_sibay {
      int a = 10;
      int b = 20;
      int c= b/a;
+     int d = b-a;
         System.out.println(c);
-        System.out.println(b);
+        System.out.println(d);
     }
     
 }
